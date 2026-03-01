@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Init",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Init",
+  "parent":{
+    "name":"rrrrrr",
+    "path":"rrrrrr.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
